@@ -10,9 +10,6 @@ We aim to develop an LSTM-based neural network model using Bidirectional Recurre
 
 ![ALT](DATASET.png)
 
-## Neural Network Model
-
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
